@@ -1,2 +1,4 @@
 # HI-SLz
 just look it
+HI,MAN 
+NODE.JS VUE.JS ANGULARJS
